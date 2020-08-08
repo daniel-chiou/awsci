@@ -9,8 +9,8 @@ Sample docker image to test docker deployments
 
 Build and run using Docker Compose:
 
-	$ git clone https://github.com/docker/dockercloud-hello-world
-	$ cd dockercloud-hello-world
+	$ git clone https://github.com/daniel-chiou/awsci.git
+	$ cd hello-world
 	$ docker-compose up
 
 
